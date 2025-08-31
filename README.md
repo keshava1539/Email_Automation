@@ -8,7 +8,7 @@
 
 ## 🧠 Project Highlights
 
--Generative AI Integration: Utilizes the LangChain framework to interface with a powerful LLM (deepseek-r1-0528) hosted on Hugging Face, enabling dynamic content creation.
+-Generative AI Integration: Utilizes the LangChain framework to interface with a powerful LLM (Llama from groq) hosted on Hugging Face, enabling dynamic content creation.
 
 -Advanced Prompt Engineering: Implements sophisticated prompt templates that instruct the AI to return a clean, structured JSON object containing the recipient, subject, body, and required SMTP details.
 
